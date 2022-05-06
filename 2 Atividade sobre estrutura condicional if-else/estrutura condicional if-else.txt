@@ -1,0 +1,21 @@
+1)Faça um programa que peça para o usuário entrar com um ano e dizer se esse ano é
+bissexto ou não;
+
+
+2)Faça um programa que entre com um número e indique se ele é impar ou par;
+
+
+3)Faça um programa que leia dois números e imprima o maior deles;
+
+
+4)Faça um programa que leia 3 números e mostre o maior deles;
+
+
+5)Faça um programa que leia 3 números e imprima-os em ordem decrescente;
+
+
+6)Faça um programa que receba o sexo de uma pessoa e imprima na tela o sexo digitado,
+o programa não pode distinguir de maiúsculas e minúsculas;
+
+
+7)Faça um programa que leia 4 notas de um aluno e retorne a media;

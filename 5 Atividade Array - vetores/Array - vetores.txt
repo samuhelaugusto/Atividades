@@ -1,0 +1,5 @@
+Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+
+Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
+Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares na variavel PAR e os números IMPARES na variavel impar. Imprima o vetor e imprima a o resultado das variáveis par e impar. (teste com um array com menos posições, se der certo faça com as 20 posições, ok!?)
