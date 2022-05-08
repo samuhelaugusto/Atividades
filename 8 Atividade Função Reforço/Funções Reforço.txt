@@ -1,0 +1,7 @@
+1. Crie uma função para retornar o calculo da area de um triangulo formula de heron:
+p = a + b + c /2;
+area = raiz  (p* (p - a) * (p-b) * (p-c))
+
+2. crie uma função que retorne o sexo de uma pessoa ('M', 'F') ou que retorne um erro caso não for uma das opções;
+
+3. Criar uma função que retorne o valor da maior idade entre 3 pessoas;
