@@ -1,0 +1,2 @@
+1- Faça um programa que peça o nome do produto, preço de venda, quantidade em estoque, e mostre os dados inseridos pelo usuário. Utilize uma classe Produtos para criar seus atributos;
+2- Faça um programa que calcule a equação do segundo grau, crie uma classe Equacao para receber os atributos A, B e C, e mostre ao final o resultado de delta, x1 e x2
