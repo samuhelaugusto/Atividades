@@ -1,0 +1,5 @@
+1- Criar uma classe Pessoa, que tem os
+atributos nome, peso, altura e idade. Falar qual das pessoas é o mais velho, e qual é o mais pesado!
+2- Criar uma classe produto, que tem os
+atributos nome, preço de custo e preço de venda, mostrar na classe principal os produtos e seus atributos;
+3- Criar uma classe animal, que tem os atributos nome, quantidade de patas, espécie (cachorro, gato...) e mostrar os atributos na classe principal;
