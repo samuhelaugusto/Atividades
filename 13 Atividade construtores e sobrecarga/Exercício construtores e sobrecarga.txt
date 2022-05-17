@@ -1,0 +1,1 @@
+Crie um programa que pode receber no mínimo dois números (parâmetros) para efetuar uma soma e no máximo 4 números, utilize os construtores para fazer esse exercício;
