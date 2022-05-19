@@ -1,0 +1,1 @@
+Crie uma classe conta que terá os atributos nome, numeroConta, agencia, saldo. O saldo só poderá ser alterado pelos métodos sacar e depositar, ou seja o atributo saldo poderá ser atualizado somente por esses 2 métodos mas poderemos obter o valor do saldo para ser mostrado para o cliente.
