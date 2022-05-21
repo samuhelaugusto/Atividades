@@ -1,0 +1,28 @@
+A barraca de lanches do seu Chico precisa da sua ajuda! Seu Chico precisa colocar no sistema os itens que ele vende em sua barraca, eles são separados em: lanches, bebidas, porções e pratos executivos (insira pelo menos 3 itens de cada). Faça um programa que selecione qual o tipo de item ele irá inserir (usando o switch case para saber se é um lanche, bebida..) e ao final mostre os itens (com foreach) separados por seção.
+
+Nesse exercício vocês irão precisar de um laço de repetição, e criar para cada tipo de seção um array (um array para bebidas, um array pra porções...) e no final fazer a impressão desses itens cadastrados separados por seção.
+
+sintaxe do switch case:
+
+switch(opção){
+case 1:
+     executa os comandos;
+     break;
+case2:
+     executa os comandos;
+     break;
+ai vc coloca quantos comandos case precisar, e no final coloca o comando default (padrão) com uma mensagem de erro por exemplo;
+default{
+"mensagem de erro"
+}
+}
+
+O foreach ele percorre a lista de array ou listas para mostrar os dados contidos nessa estrutura.
+
+sintaxe foreach:
+
+for( String apelido : array ou lista){
+syso(apelido)
+}
+
+lê-se assim: para (tipo de dado) string (ou outro tipo, to usando o string como exemplo) chame de apelido contido ( os dois pontos lê-se ocntido) no array ou lista, imprima o apelido.
